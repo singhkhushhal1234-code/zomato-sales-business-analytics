@@ -41,15 +41,18 @@ interactive Power BI dashboard.
 
 ### 1. Executive Overview
 
-![Executive Overview](Dashboard_Screenshots/Executive_Overview.png)
+<img width="1322" height="742" alt="Screenshot 2026-09-27 210015" src="https://github.com/user-attachments/assets/165cb4bb-082c-4212-bedb-be7eca0cce17" />
+
 
 ### 2. Operations & Customer Experience
 
-![Operations](Dashboard_Screenshots/Operations_Customer_Experience.png)
+<img width="1323" height="743" alt="Screenshot 2026-09-27 210027" src="https://github.com/user-attachments/assets/66a80cd8-bbcf-44fe-91ac-a980d354539f" />
+
 
 ### 3. Actionable Business Insights
 
-![Business Insights](Dashboard_Screenshots/Actionable_Business_Insights.png)
+<img width="1330" height="742" alt="Screenshot 2026-09-27 210035" src="https://github.com/user-attachments/assets/ee4851eb-cac4-40f8-a374-af661757e8d2" />
+
 
 ## Key Findings
 
